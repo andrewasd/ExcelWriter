@@ -1,0 +1,27 @@
+{
+  "name": "excelwriter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "compressing": "^1.10.1",
+    "csv-parse": "^5.6.0",
+    "csv-stringify": "^6.5.2",
+    "decompress": "^4.2.1",
+    "enquirer": "^2.4.1",
+    "exceljs": "^4.4.0",
+    "loading-cli": "^1.1.2",
+    "typescript": "^5.8.3",
+    "underscore": "^1.13.7"
+  },
+  "devDependencies": {
+    "@types/decompress": "^4.2.7",
+    "@types/underscore": "^1.13.0"
+  }
+}

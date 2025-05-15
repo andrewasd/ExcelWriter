@@ -1,0 +1,1 @@
+{"version":3,"file":"checkvalidemailAddress.js","sourceRoot":"","sources":["../../../src/Utilities/CredentialsReader/checkvalidemailAddress.ts"],"names":[],"mappings":";;;AAAO,MAAM,YAAY,GAAG,CAAC,KAAa,EAAW,EAAE;IACrD,MAAM,UAAU,GAAG,4BAA4B,CAAC;IAChD,MAAM,OAAO,GAAI,UAAU,CAAC,IAAI,CAAC,KAAK,CAAC,CAAC;IACxC,OAAO,OAAO,CAAC;AACjB,CAAC,CAAC;AAJW,QAAA,YAAY,gBAIvB"}
